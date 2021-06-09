@@ -33,7 +33,6 @@ macOS version: 11.3.1
 - [x] 蓝牙
 - [x] wifi（不太稳定）
 - [ ] windows和mac时间不同步问题
-- [ ] OC页面UI美化
 
 ### 关于本机
 ![](./images/mac_info.png)
