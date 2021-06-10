@@ -30,9 +30,16 @@ macOS version: 11.3.1
 - [x] 睡眠/唤醒
 - [x] 核显硬件加速
 - [x] 声卡输出
-- [ ] 蓝牙
+- [x] windows和mac时间不同步问题
+  windows下管理员身份运行命令
+  ```
+  Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
+  ```
+
+不稳定：蓝牙和wifi都不是太稳定
+- [x] 蓝牙
 - [x] wifi
-- [ ] windows和mac时间不同步问题
+- [x] HIDPI开启后感觉效果不大，帧率反而有明显的下降
 
 ### 关于本机
 ![](./images/mac_info.png)
