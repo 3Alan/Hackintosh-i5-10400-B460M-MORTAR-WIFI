@@ -2,7 +2,14 @@
 ## EFI 
 因为我装的是双系统，所以EFI中有`windows`引导文件，使用前删除`Microsoft`文件夹
 
-EFI都是再网上东拼西凑找来的，后期有时间考虑学习自己定制一个，毕竟现在的EFI还有很多地方不是很好。
+EFI都是在网上东拼西凑找来的，后期有时间考虑学习自己定制一个，毕竟现在的EFI还有很多地方不是很好。
+
+> 参考EFI及资料
+> https://mp.weixin.qq.com/s/UNtxsMIaKISyH6uRNt0LzQ
+> https://github.com/cheneyxx/Hackintosh-10400-B460M-MORTAR
+> https://www.bilibili.com/video/BV1Lf4y1i7FV?from=search&seid=15517732188143082051
+> https://github.com/OpenIntelWireless/IntelBluetoothFirmware
+> https://github.com/OpenIntelWireless/itlwm
 
 macOS version: 11.3.1
 
