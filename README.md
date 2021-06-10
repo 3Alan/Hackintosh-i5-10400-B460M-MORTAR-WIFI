@@ -5,6 +5,7 @@
 EFI都是在网上东拼西凑找来的，后期有时间考虑学习自己定制一个，毕竟现在的EFI还有很多地方不是很好。
 
 > 参考EFI及资料
+> 
 > https://mp.weixin.qq.com/s/UNtxsMIaKISyH6uRNt0LzQ
 > https://github.com/cheneyxx/Hackintosh-10400-B460M-MORTAR
 > https://www.bilibili.com/video/BV1Lf4y1i7FV?from=search&seid=15517732188143082051
