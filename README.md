@@ -17,6 +17,7 @@ macOS version: 11.3.1
 |电源|振华LEADEX G 550|
 |机箱|爱国者 M2 白色|
 |散热|乔思伯CR-1000 白色|
+|显示器|AOC Q27U2D 27寸/2K|
 
 ## Bios设置
 ![](./images/pic1.png)
@@ -36,7 +37,8 @@ macOS version: 11.3.1
   Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
   ```
 
-不稳定：蓝牙和wifi都不是太稳定
+## 不稳定的功能
+蓝牙和wifi都不是太稳定(使用的是主板自带的AX200)
 - [x] 蓝牙
 - [x] wifi
 - [x] HIDPI开启后感觉效果不大，帧率反而有明显的下降
