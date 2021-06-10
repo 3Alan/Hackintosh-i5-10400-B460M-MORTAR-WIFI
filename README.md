@@ -9,8 +9,11 @@ EFI都是在网上东拼西凑找来的，后期有时间考虑学习自己定�
 > https://mp.weixin.qq.com/s/UNtxsMIaKISyH6uRNt0LzQ
 > 
 > https://github.com/cheneyxx/Hackintosh-10400-B460M-MORTAR
+> 
 > https://www.bilibili.com/video/BV1Lf4y1i7FV?from=search&seid=15517732188143082051
+> 
 > https://github.com/OpenIntelWireless/IntelBluetoothFirmware
+> 
 > https://github.com/OpenIntelWireless/itlwm
 
 macOS version: 11.3.1
