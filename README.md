@@ -36,4 +36,5 @@ macOS version: 11.3.1
 
 ### 关于本机
 ![](./images/mac_info.png)
+![效果图](./images/效果图.jpg)
 
