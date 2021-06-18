@@ -15,14 +15,18 @@ EFI都是在网上东拼西凑找来的，后期有时间考虑学习自己定�
 > https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 > 
 > https://github.com/OpenIntelWireless/itlwm
+> 
+> https://github.com/xzhih/one-key-hidpi
 
-macOS version: 11.3.1
+macOS version: 11.3.1 Big Sur
 
-镜像使用了黑果小兵的11.3.1镜像
+镜像：黑果小兵11.3.1镜像
+
+引导方式：OC引导
 
 ## 硬件配置（价格仅供参考）
 **购买时间：2021-6-1**
-|组件|型号|价格（京东）含购物券|
+|硬件|型号|价格（京东）含购物券|
 |------|------|------|
 |主板|微星 B460M MORTAR WIFI|620|
 |CPU|Intel i5 10400|1257|
@@ -32,6 +36,7 @@ macOS version: 11.3.1
 |电源|振华LEADEX G 550|448|
 |机箱|爱国者 M2 白色|146|
 |显示器|AOC Q27U2D 27寸/2K|1692|
+|网卡|板载AX200|
 |总价格|---|5659|
 
 ## Bios设置
@@ -42,7 +47,7 @@ macOS version: 11.3.1
 ![](./images/pic5.png)
 
 
-## 功能测试和待完成
+## 功能测试
 - [x] 睡眠/唤醒
 - [x] 核显硬件加速
 - [x] 声卡输出
@@ -53,10 +58,11 @@ macOS version: 11.3.1
   ```
 
 ## 不稳定的功能
-蓝牙和wifi都不是太稳定(使用的是主板自带的AX200)
-- [x] 蓝牙
+蓝牙和wifi偶尔不稳定
+- [x] 蓝牙（不知是不是我蓝牙音箱只能记忆一台设备的问题，windows/mac只能连接一台，想要连接上必须在蓝牙中删除设备重新配对）
 - [x] wifi
-- [x] HIDPI开启后感觉效果不大，帧率反而有明显的下降，字体有一点模糊（可能是2k分辨率不太够？）
+- [x] HIDPI开启后感觉效果不大，帧率反而有明显的下降，字体有一点模糊（可能是2k分辨率不太够？又或者换DP线效果更好）
+  开启方案：https://github.com/xzhih/one-key-hidpi
 
 ### 关于本机
 ![](./images/mac_info.png)
