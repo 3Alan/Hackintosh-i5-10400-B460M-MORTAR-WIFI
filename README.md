@@ -1,4 +1,8 @@
 # Hackintosh-i510400-B460M-MORTAR-WIFI
+
+## 声明
+该EFI并不“完美”，仅供参考，追求完美的小伙伴谨慎使用。
+
 ## EFI 
 因为我装的是双系统，所以EFI中有`windows`引导文件，使用前删除`Microsoft`文件夹
 
