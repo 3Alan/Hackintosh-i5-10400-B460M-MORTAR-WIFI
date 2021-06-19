@@ -70,5 +70,5 @@ macOS version: 11.3.1 Big Sur
 
 ### 关于本机
 ![](./images/mac_info.png)
-![效果图](./images/效果图.jpg)
+![效果图](./images/1624111106562.png)
 
