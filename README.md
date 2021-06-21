@@ -62,7 +62,7 @@ macOS version: 11.3.1 Big Sur
   ```
 - [ ] windows/mac 蓝牙设备共用需要重新配对的问题
 - [x] wifi无法冷启动（需要先进windows在切回mac才能驱动wifi）问题
-  解决方案：关闭windows10的快速启动选择（自行百度）
+  解决方案：关闭windows10的`快速启动`（自行百度）
 
 ## 不稳定的功能
 - [x] wifi(`itlwm`已知的问题，目前解决方案就是换网卡)
