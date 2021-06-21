@@ -68,7 +68,7 @@ macOS version: 11.3.1 Big Sur
   Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
   ```
 - [x] windows/mac 蓝牙设备共用需要重新配对的问题
-  解决方案：https://www.reddit.com/r/hackintosh/comments/mtvj5m/howto_keep_bluetooth_devices_paired_across_macos/、
+  解决方案：https://www.reddit.com/r/hackintosh/comments/mtvj5m/howto_keep_bluetooth_devices_paired_across_macos/ 
   当然也有现成的脚本：https://github.com/digitalbirdo/BT-LinkkeySync
 - [ ] 目前已配对蓝牙设备在`mac`开机后无法自动连接，需要手动连接。不知是不是bigsur已存在的问题？
 - [x] wifi无法冷启动（需要先进`windows`再切回`mac`才能驱动wifi）问题
