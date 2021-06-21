@@ -60,7 +60,7 @@ macOS version: 11.3.1 Big Sur
   ```
   Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
   ```
-- [] windows/mac 蓝牙设备共用需要重新配对的问题
+- [ ] windows/mac 蓝牙设备共用需要重新配对的问题
 - [x] wifi无法冷启动（需要先进windows在切回mac才能驱动wifi）问题
   解决方案：关闭windows10的快速启动选择（自行百度）
 
