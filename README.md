@@ -58,8 +58,9 @@ macOS version: 11.3.1 Big Sur
 
 ## 不稳定的功能
 - [x] wifi(`itlwm`已知的问题，目前解决方案就是换网卡)
-- [x] HIDPI开启后感觉效果不大，帧率反而有明显的下降，字体有一点模糊（可能是2k分辨率不太够？又或者换DP线效果更好）
-  开启方案：https://github.com/xzhih/one-key-hidpi
+
+## 待解决
+发现wifi好像和蓝牙会产生干扰，后面看通过USB定制能否解决
 
 ## 非EFI问题及解决方案
 - [x] windows和mac时间不同步问题
@@ -73,6 +74,16 @@ macOS version: 11.3.1 Big Sur
 - [ ] 目前已配对蓝牙设备在`mac`开机后无法自动连接，需要手动连接。不知是不是bigsur已存在的问题？
 - [x] wifi无法冷启动（需要先进`windows`再切回`mac`才能驱动wifi）问题
   解决方案：关闭`windows10`的`快速启动`（自行百度）
+- [x] HIDPI开启后感觉效果不大，帧率反而有明显的下降，字体有一点模糊（google后发现只有上4k显示器才能解决）
+  开启方案：https://github.com/xzhih/one-key-hidpi
+  开启后通过关闭`平滑字体`能稍微缓解字体模糊的问题(bigSur默认开启)
+  ```
+  // 0为关闭
+  defaults -currentHost write -globalDomain AppleFontSmoothing -int 0
+
+  // 开启平滑字体 1-3为不同程度的平滑效果，平滑效果逐渐递增
+  defaults -currentHost write -globalDomain AppleFontSmoothing -int 1
+  ```
 
 ## 关于本机
 ![](./images/mac_info.png)
