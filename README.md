@@ -3,6 +3,8 @@
 ## 声明
 该EFI并不“完美”，至少wifi不算太稳定（会断连），仅供参考，追求完美的小伙伴谨慎使用。
 
+EFI下载地址：https://github.com/3Alan/Hackintosh-i510400-B460M-MORTAR-WIFI/releases
+
 ## EFI 
 因为我装的是双系统，所以EFI中有`windows`引导文件，使用前删除`Microsoft`文件夹
 
@@ -55,12 +57,11 @@ macOS version: 11.3.1 Big Sur
 - [x] 睡眠/唤醒
 - [x] 核显硬件加速
 - [x] 声卡输出
+- [x] USB端口识别（除了后置面板的Typec端口的USB3.0，主要是没有设备拿来定制）
 
 ## 不稳定的功能
 - [x] wifi(`itlwm`已知的问题，目前解决方案就是换网卡)
 
-## 待解决
-发现wifi好像和蓝牙会产生干扰，后面看通过USB定制能否解决
 
 ## 非EFI问题及解决方案
 - [x] windows和mac时间不同步问题
@@ -88,4 +89,3 @@ macOS version: 11.3.1 Big Sur
 ## 关于本机
 ![](./images/mac_info.png)
 ![效果图](./images/1624111106562.png)
-
