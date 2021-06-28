@@ -3,6 +3,8 @@
 ## 声明
 该EFI并不“完美”，至少wifi不算太稳定（会断连），仅供参考，追求完美的小伙伴谨慎使用。
 
+网卡驱动使用了最新的`2.0alpha`版本，先使用一段时间看看稳定性，代码中的EFI文件已使用。
+
 EFI下载地址：https://github.com/3Alan/Hackintosh-i510400-B460M-MORTAR-WIFI/releases
 
 ## EFI 
@@ -85,6 +87,9 @@ macOS version: 11.3.1 Big Sur
   // 开启平滑字体 1-3为不同程度的平滑效果，平滑效果逐渐递增
   defaults -currentHost write -globalDomain AppleFontSmoothing -int 1
   ```
+
+- [x] 亮度调节工具（可自己设置快捷键，而且不会在状态栏显示，使用起来无感）：https://github.com/fnesveda/ExternalDisplayBrightness
+  ![](./images/externalDisplayExternalDisplayBrightness.png)
 
 ## 关于本机
 ![](./images/mac_info.png)
