@@ -1,16 +1,14 @@
 # Hackintosh-i5-10400-B460M-MORTAR-WIFI
 
 ## 声明
-该EFI并不“完美”，至少wifi不算太稳定（会断连），仅供参考，追求完美的小伙伴谨慎使用。
+该EFI并不“完美”，wifi(`AirportItlwm v1.3.0 stable`)不算太稳定（会断连），追求完美的小伙伴谨慎使用。
 
-网卡驱动仓库文件中使用了最新的`2.0alpha`版本，先使用一段时间看看稳定性，`release`中使用的是`1.3`稳定版。
+网卡驱动仓库文件中使用了最新的(`AirportItlwm v2.0.0-alpha`)内测版本，目前使用了一周多没有出现断连的情况，`release`中使用的是(`AirportItlwm v1.3.0 stable`)稳定版。
 
 EFI下载地址：https://github.com/3Alan/Hackintosh-i510400-B460M-MORTAR-WIFI/releases
 
 ## EFI 
 因为我装的是双系统，所以EFI中有`windows`引导文件，使用前删除`Microsoft`文件夹
-
-EFI都是在网上东拼西凑找来的，不过我现在已经逐渐完善它了。
 
 > 参考EFI及资料
 > 
@@ -40,12 +38,15 @@ macOS version: 11.3.1 Big Sur
 |CPU|Intel i5 10400|1257|
 |内存|金士顿骇客神条RGB灯条 8GB * 2 2666MHz|647|
 |SSD <br /> 散热|铠侠 RC10 512GB * 2 <br /> 乔思伯CR-1000 白色|849|
-|显卡|Intel UHD Graphics 630（CPU自带核显） |
+|显卡|Intel UHD Graphics 630（iGPU） |
 |电源|振华LEADEX G 550|448|
 |机箱|爱国者 M2 白色|146|
-|显示器|AOC Q27U2D 27寸/2K|1692|
 |网卡|板载AX200|
-|总价格|---|5659|
+|总价格|---|3967|
+
+|外设|型号|价格|
+|------|------|------|
+|显示器（有条件的直接4k）|AOC Q27U2D 27寸/2K|1692|
 
 ## Bios设置
 ![](./images/pic1.png)
@@ -60,10 +61,7 @@ macOS version: 11.3.1 Big Sur
 - [x] 核显硬件加速
 - [x] 声卡输出
 - [x] USB端口识别（除了后置面板的Typec端口的USB3.0，主要是没有设备拿来定制）
-
-## 不稳定的功能
-- [x] wifi(`itlwm`已知的问题，目前解决方案：换网卡/等作者更新)
-
+- [x] wifi 
 
 ## 非EFI问题及解决方案
 - [x] windows和mac时间不同步问题
@@ -88,7 +86,7 @@ macOS version: 11.3.1 Big Sur
   defaults -currentHost write -globalDomain AppleFontSmoothing -int 1
   ```
 
-- [x] 亮度调节工具（可自己设置快捷键，而且不会在状态栏显示，使用起来无感）：https://github.com/fnesveda/ExternalDisplayBrightness
+- [x] 亮度调节工具（前提是显示器支持调节）：https://github.com/fnesveda/ExternalDisplayBrightness
   ![](./images/externalDisplayExternalDisplayBrightness.png)
 
 ## 关于本机
