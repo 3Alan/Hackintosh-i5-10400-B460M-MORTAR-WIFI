@@ -1,4 +1,4 @@
-# Hackintosh-i510400-B460M-MORTAR-WIFI
+# Hackintosh-i5-10400-B460M-MORTAR-WIFI
 
 ## 声明
 该EFI并不“完美”，至少wifi不算太稳定（会断连），仅供参考，追求完美的小伙伴谨慎使用。
