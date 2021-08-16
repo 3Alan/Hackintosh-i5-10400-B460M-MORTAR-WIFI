@@ -1,10 +1,5 @@
 # Hackintosh-i5-10400-B460M-MORTAR-WIFI
 
-## 声明
-该EFI并不“完美”，wifi(`AirportItlwm v1.3.0 stable`)不算太稳定（会断连），追求完美的小伙伴谨慎使用。
-
-网卡驱动仓库文件中使用了最新的(`AirportItlwm v2.0.0-alpha`)内测版本，目前使用了一周多没有出现断连的情况，`release`中使用的是(`AirportItlwm v1.3.0 stable`)稳定版。
-
 EFI下载地址：https://github.com/3Alan/Hackintosh-i510400-B460M-MORTAR-WIFI/releases
 
 ## EFI 
