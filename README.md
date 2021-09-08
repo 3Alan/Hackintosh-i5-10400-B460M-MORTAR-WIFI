@@ -3,8 +3,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/stargazers/)
 
 
-EFI下载地址：https://github.com/3Alan/Hackintosh-i510400-B460M-MORTAR-WIFI/releases
-
 ## EFI 
 因为我装的是双系统，所以EFI中有`windows`引导文件，使用前删除`Microsoft`文件夹
 
