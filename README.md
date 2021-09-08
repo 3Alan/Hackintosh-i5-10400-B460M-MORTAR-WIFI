@@ -1,4 +1,7 @@
 # Hackintosh-i5-10400-B460M-MORTAR-WIFI
+[![Github all releases](https://img.shields.io/github/downloads/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/total.svg)](https://GitHub.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/releases/)
+[![GitHub stars](https://img.shields.io/github/stars/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/stargazers/)
+
 
 EFI下载地址：https://github.com/3Alan/Hackintosh-i510400-B460M-MORTAR-WIFI/releases
 
