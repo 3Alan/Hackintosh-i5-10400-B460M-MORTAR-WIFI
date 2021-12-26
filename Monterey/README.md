@@ -9,6 +9,7 @@ macOS version: 12.1 Monterey
 ## 升级过程记录
 
 ### 操作
+- 升级最新的 `opencore` (借助了工具 [QtOpenCoreConfig](https://github.com/ic005k/QtOpenCoreConfig))
 - 更换 `AirportItlwm` 为 `Monterey` 版本
 - 添加 `BlueToolFixup.kext`
 - 禁用 `IntelBluetoothFirmware.kext`
