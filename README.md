@@ -63,6 +63,7 @@ macOS version: 11.3.1 Big Sur
 - [ ] 隔空投送（驱动不支持），需安装博通网卡
 
 ## 非EFI问题及解决方案
+- 开机显示代码，用来分析错误：在 `boot-args` 中添加 `-v` 参数即可
 - [x] windows和mac时间不同步问题
   windows下管理员身份运行命令
   ```
