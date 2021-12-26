@@ -2,6 +2,8 @@
 [![Github all releases](https://img.shields.io/github/downloads/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/total.svg)](https://GitHub.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/releases/)
 [![GitHub stars](https://img.shields.io/github/stars/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/stargazers/)
 
+## Monterey 版本
+刚升级，正在试用，需要的前往[查看](https://github.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/tree/main/Monterey)
 
 ## EFI 
 因为我装的是双系统，所以EFI中有`windows`引导文件，使用前删除`Microsoft`文件夹
