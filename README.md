@@ -93,7 +93,6 @@ macOS version: 11.3.1 Big Sur
 - [x] 妙控板windows驱动：https://github.com/imbushuo/mac-precision-touchpad
 
 ## 关于本机
-![](./images/mac_info.png)
 ![效果图](./images/WechatIMG24.jpeg)
 
-**如果上面的内容对你有帮助，那就给我点个star吧！**
+## 如果以上内容对你有帮助，不妨给我点个star吧！
