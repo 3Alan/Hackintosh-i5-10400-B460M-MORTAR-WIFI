@@ -5,6 +5,7 @@ macOS version: 12.1 Monterey
 引导方式：OC引导（0.7.6）
 
 ## EFI下载地址
+[下载](https://github.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/releases/tag/v2.0.0)
 
 ## 升级过程记录
 
