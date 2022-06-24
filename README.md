@@ -2,11 +2,15 @@
 [![Github all releases](https://img.shields.io/github/downloads/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/total.svg)](https://GitHub.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/releases/)
 [![GitHub stars](https://img.shields.io/github/stars/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/stargazers/)
 
-## Monterey 版本
-刚升级，正在试用，需要的前往[查看](https://github.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/tree/main/Monterey)
+## 基本信息
+macOS version: 12.1 Monterey
+
+引导方式：OC引导（0.7.6）
 
 ## EFI 
 因为我装的是双系统，所以EFI中有`windows`引导文件，使用前删除`Microsoft`文件夹
+
+[EFI下载地址](https://github.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/releases/tag/v2.0.0)
 
 > 参考EFI及资料
 > 
@@ -21,12 +25,6 @@
 > https://github.com/OpenIntelWireless/itlwm
 > 
 > https://github.com/xzhih/one-key-hidpi
-
-macOS version: 11.3.1 Big Sur
-
-镜像：黑果小兵11.3.1镜像
-
-引导方式：OC引导（0.6.5）
 
 ## 硬件配置（价格仅供参考）
 **购买时间：2021-6-1**
@@ -91,6 +89,7 @@ macOS version: 11.3.1 Big Sur
   ![](./images/externalDisplayExternalDisplayBrightness.png)
 
 - [x] 妙控板windows驱动：https://github.com/imbushuo/mac-precision-touchpad
+- [x] 11.3.1 Big Sur [升级过程](https://github.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/tree/main/Monterey)
 
 ## 关于本机
 ![效果图](./images/WechatIMG24.jpeg)
