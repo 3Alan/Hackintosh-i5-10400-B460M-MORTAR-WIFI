@@ -8,7 +8,7 @@ macOS version: 12.1 Monterey
 引导方式：OC引导（0.7.6）
 
 ## RX6600 显卡版本
-刚买的显卡，正在使用中，需要的自行下载。[下载地址]()
+刚买的显卡，正在使用中，需要的自行下载。[下载地址](https://github.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/releases/tag/v.2.1.0)
 
 ## EFI 
 因为我装的是双系统，所以EFI中有`windows`引导文件，使用前删除`Microsoft`文件夹
