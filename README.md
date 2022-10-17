@@ -7,13 +7,9 @@ macOS version: 12.1 Monterey
 
 引导方式：OC引导（0.7.6）
 
-## RX6600 显卡版本
-刚买的显卡，正在使用中，需要的自行下载。[下载地址](https://github.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/releases/tag/v.2.1.0)
-
 ## EFI 
-因为我装的是双系统，所以EFI中有`windows`引导文件，使用前删除`Microsoft`文件夹
 
-[EFI下载地址](https://github.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/releases/tag/v2.0.0)
+[EFI下载地址](https://github.com/3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI/releases/tag/v.2.1.0)
 
 > 参考EFI及资料
 > 
@@ -37,11 +33,11 @@ macOS version: 12.1 Monterey
 |CPU|Intel i5 10400|1257|
 |内存|金士顿骇客神条RGB灯条 8GB * 2 2666MHz|647|
 |SSD <br /> 散热|铠侠 RC10 512GB * 2 <br /> 乔思伯CR-1000 白色|849|
-|显卡|Intel UHD Graphics 630（iGPU） |
+|显卡|Intel UHD Graphics 630（iGPU） & 华硕 RX6600 |1939（2022-8-19）|
 |电源|振华LEADEX G 550|448|
 |机箱|爱国者 M2 白色|146|
 |网卡|板载AX200|
-|总价格|---|3967|
+|总价格|---|5906|
 
 |外设|型号|价格|
 |------|------|------|
