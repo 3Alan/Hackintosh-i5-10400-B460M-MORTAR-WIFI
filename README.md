@@ -94,3 +94,8 @@ macOS version: 12.1 Monterey
 ![效果图](./images/WechatIMG24.jpeg)
 
 ## 如果以上内容对你有帮助，不妨给我点个star吧！
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI&type=Date)](https://star-history.com/#3Alan/Hackintosh-i5-10400-B460M-MORTAR-WIFI&Date)
+
